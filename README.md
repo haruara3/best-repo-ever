@@ -1,5 +1,5 @@
 # best-repo-ever
 
-‚Í‚¶‚ß‚Ä‚ÌGithub!
+Don't support Japanese character.
 
 My first Github action!
